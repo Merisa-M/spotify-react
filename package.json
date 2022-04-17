@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "lyrics-finder": "^21.7.0",
+    "react-spotify-web-playback": "^0.9.1",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
